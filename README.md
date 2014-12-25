@@ -1,4 +1,4 @@
 Laravel4-classified
 ===================
 
-It is laravel4 based classified script
+Why re-inventing the whole wheel again? I mean there are ton of classified software exists then why we need to rewrite it again?
